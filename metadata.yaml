@@ -1,0 +1,32 @@
+_repo: The-Little-Demon_48912
+contributor:
+  translators:
+  - agent_name: Aldington, Richard
+    alias: Oldington, Richard
+    birthdate: 1892
+    deathdate: 1962
+    gutenberg_agent_id: '34481'
+    url: http://www.gutenberg.org/2009/agents/34481
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Aldington
+  - agent_name: Cournos, John
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '2482'
+    url: http://www.gutenberg.org/2009/agents/2482
+    wikipedia: http://en.wikipedia.org/wiki/John_Cournos
+creator:
+  author:
+    agent_name: Sologub, Feodor
+    gutenberg_agent_id: '45039'
+    url: http://www.gutenberg.org/2009/agents/45039
+description: ''
+gutenberg_issued: '2015-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Little Demon
+url: http://www.gutenberg.org/ebooks/48912
