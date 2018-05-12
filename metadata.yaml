@@ -1,4 +1,5 @@
 _repo: The-Little-Demon_48912
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Aldington, Richard
@@ -14,12 +15,17 @@ contributor:
     gutenberg_agent_id: '2482'
     url: http://www.gutenberg.org/2009/agents/2482
     wikipedia: http://en.wikipedia.org/wiki/John_Cournos
+covers:
+- cover_type: archival
+  image_path: 48912-h/images/cover.jpg
 creator:
   author:
     agent_name: Sologub, Feodor
     gutenberg_agent_id: '45039'
     url: http://www.gutenberg.org/2009/agents/45039
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48912#The-Little-Demon
 gutenberg_issued: '2015-05-09'
 gutenberg_type: Text
 identifiers:
